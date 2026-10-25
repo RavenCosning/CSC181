@@ -15,7 +15,7 @@ Each log documents the date of the session, the participant's background, the in
 | **Q3.** How often do your selling posts get buried or ignored in Facebook groups? | Sometimes…if walay engagement sa posts like comments or reacts |
 | **Q4.** What is the most frustrating or time-consuming part of finding a buyer for your old school materials? | If no one is interested to buy or the admin of the page take so long to approve the post. And low engagement sa post din I guess |
 | **Q5.** If we built a centralized MSU-IIT platform just for this, what specific feature would convince you to post there instead of just using Facebook? | Categorized items sa mga gipang sell i think. Para ma focus pd og pangita ang buyers like if akong gusto e post is mga clothes lng din naay category na dra ko mag post and dra rapd makita sa mga buyers |
-| **Proof of Interview** | **![][image1]** |
+| **Proof of Interview** | ![Interview 1 proof](images/1.png)|
 
 ## **Interviewee \#2**
 
@@ -27,7 +27,7 @@ Each log documents the date of the session, the participant's background, the in
 | **Q2.** Have you ever ended up buying a brand-new item because you couldn't find a secondhand one in time? | Nope. It depends, sometimes if no choice |
 | **Q3.** Walk me through your experience the last time you bought a used item from someone. How did you coordinate the meetup and payment? | We coordinate through Facebook and Messenger, and payments are made via GCash |
 | **Q4.** What makes you hesitate when buying secondhand items through Facebook? (e.g., trust, item condition, pricing?) | Item condition and the quality |
-| **Proof of Interview** | **![][image2]** |
+| **Proof of Interview** | ![Interview 2 proof](images/2.png)|
 
 ## **Interviewee \#3**
 
@@ -40,7 +40,7 @@ Each log documents the date of the session, the participant's background, the in
 | **Q3.** Did you encounter any issues regarding time, such as whether you could still get the product on time or whether your schedule aligned with the seller’s? | I didn’t really encounter issues with time, especially on availability, because I chatted with the seller beforehand. Since she is a nursing student and I also have a cousin who is a nursing student, I asked my cousin to inquire about the seller’s available time, to which she replied lunch. Since I was also available during that time, we agreed on it and met on campus at the CEBA building, and I got the product with no issues. |
 | **Q4.** Have you experienced this multiple times, buying secondhand items on social media platforms? | Yes, I buy a lot on the Marketplace, especially on the MSU-IIT CATS page, like clothes, and from my cousin also. |
 | **Q5.** Have you ever ended up buying a brand-new item because you couldn’t find a secondhand one in time? | Yes, I did. I think it was a lab gown. I originally planned to just borrow from my older sister, but since she was not available and I couldn’t find anything on the Marketplace on time, I just bought a brand-new one. |
-| **Proof of Interview** | **![][image3]** |
+| **Proof of Interview** | ![Interview 3 proof](images/3.jpg)|
 
 ## **Interviewee \#4**
 
@@ -52,7 +52,7 @@ Each log documents the date of the session, the participant's background, the in
 | **Q2.** Can you walk me through how you buy items online, and whether you are satisfied with the product? | Based on my experience, the first time I bought on Facebook Marketplace, I was satisfied, maybe because I got lucky that the seller I found was legit and responsive to my messages and inquiries. When we met, the product was legit and didn’t have any issues. |
 | **Q3.** Can you please specify which product you bought, and what difficulties or concerns you encountered? | In regards to concerns, I had no problems with the seller since he was very cooperative and really wanted to sell the product. As for the product itself, it was a pocketbook and one cartoon, and it arrived with no issues. |
 | **Q4.** Have you ever ended up buying a brand-new item because you couldn’t find a secondhand one in time? | Yes, it was a textbook for my GEC subject, I can't find any good second hand products, so I just bought a new one. |
-| **Proof of Interview** | **![][image4]** |
+| **Proof of Interview** |![Interview 4 proof](images/4.jpg)|
 
 ## **Interviewee \#5**
 
@@ -64,7 +64,7 @@ Each log documents the date of the session, the participant's background, the in
 | **Q2.** Have you ever ended up buying a brand-new item because you couldn't find a secondhand one in time? | Yes. If I can’t find it online, I’ll look for it in physical stores. |
 | **Q3.** Walk me through your experience the last time you bought a used item from someone. How did you coordinate the meetup and payment? | I bought a phone. We met up in a crowded place so I could check the phone’s condition. Payment terms were in cash. |
 | **Q4.** What makes you hesitate when buying secondhand items through Facebook? (e.g., trust, item condition, pricing?) | I don’t hesitate in buying secondhand items but I make sure to have a deep check of its condition and for possible hidden issues just in case. If it appears to have undisclosed issues, I cancel the transaction. |
-| **Proof of Interview** | **![][image5]** |
+| **Proof of Interview** | ![Interview 5 proof](images/5.png) |
 
 ## **Interviewee \#6**
 
@@ -76,7 +76,7 @@ Each log documents the date of the session, the participant's background, the in
 | **Q2.** Have you ever ended up buying a brand-new item because you couldn't find a secondhand one in time? | Yes. I ordered my books from the school because searching for a secondhand was a hassle but, it was worth it because they came in a bundle and the difference was less than 500\. |
 | **Q3.** Walk me through your experience the last time you bought a used item from someone. How did you coordinate the meetup and payment? | The last item i bought from someone was a set of uniform from our senior. Since he was a graduating senior high, i approached him through facebook and asked if he was going to sell his uniform. He agreed, we then meet at the school, i gave him the payments, he gave me the set. |
 | **Q4.** What makes you hesitate when buying secondhand items through Facebook (e.g., trust, item condition, pricing)? | Condition and price mostly because there might be existing sellers that sells the items in a lower price w/ great quality and there are also sellers that sells the items in a higher price but in poorer quality. hence, in buying secondhand items i always consider whether the condition and the price meets just right. |
-| **Proof of Interview** | ![][image6] |
+| **Proof of Interview** | ![Interview 6 proof](images/6.png)|
 
 ## **Interviewee \#7**
 
@@ -87,7 +87,7 @@ Each log documents the date of the session, the participant's background, the in
 | **Q1.** How much time do you typically spend scrolling through different Facebook groups to find a specific textbook or lab gown? | Yes |
 | **Q2.** Walk me through your experience the last time you bought a used item from someone. How did you coordinate the meetup and payment? | i commented on their post, and they messaged me, we then set the time and place for meetup and the mode of payment |
 | **Q3.** What makes you hesitate when buying secondhand items through Facebook (e.g., trust, item condition, pricing)? | The possibility of the seller being a scammer |
-| **Proof of Interview** | ![][image7] |
+| **Proof of Interview** |![Interview 7 proof](images/7.png)|
 
 ## **What have you learned?**
 
